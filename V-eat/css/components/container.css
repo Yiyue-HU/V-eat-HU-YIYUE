@@ -1,0 +1,22 @@
+.container {
+	width: 700px;
+	margin: 100px auto;
+}
+
+.container h2 {
+	margin: 100px auto;
+}
+
+
+
+@media (max-width: 760px) {
+	.container {
+		width: 600px;
+	}
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 440px;
+	}
+}
