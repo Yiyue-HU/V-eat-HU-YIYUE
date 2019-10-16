@@ -1,0 +1,42 @@
+@import	url("https://fonts.googleapis.com/css?family=Lato:400,700,900|Oswald:400,600,700|Roboto:400,700,900&display=swap")
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+
+body {
+	font-family: 'Oswald',serif;
+	font-size: 18px;
+	margin: 30px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+
+h1,h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+p {
+	font-size: 24px;
+	margin-left: 80px;
+	margin-right: 80px;
+	line-height: 50px;
+}
+
+a {
+	text-decoration: none;
+}
